@@ -54,7 +54,7 @@ More details to follow.
 </div>
 
 
-We are a dynamic _VISION: **V**isually **I**ntelligent **S**olutions for **I**ntegrated **O**bservation and **N**ature Conservation_ research group at RPI consisting of a Research Scientist, two PhD students and a Masters/Co-term student led Dr Charles V Stewart as our advisor. Our aim is to explore and apply computational methods for ecological conservation. **We are very grateful for our lab's funding by two NSF institutes, namely [ICICLE](https://icicle.osu.edu/) and [Imageomics](https://imageomics.osu.edu/).** 
+We are a dynamic _VISION: **V**isually **I**ntelligent **S**olutions for **I**ntegrated **O**bservation and **N**ature Conservation_ research group at RPI consisting of a Research Scientist, two PhD students and a Masters/Co-term student led by Dr Charles V Stewart as our advisor. Our aim is to explore and apply computational methods for ecological conservation. **We are very grateful for our lab's funding by two NSF institutes, namely [ICICLE](https://icicle.osu.edu/) and [Imageomics](https://imageomics.osu.edu/).** 
 
 "Led by The Ohio State University, the National Science Foundation funded AI institute for Intelligent Cyberinfrastructure with Computational Learning in the Environment (ICICLE) will build the next generation of Cyberinfrastructure to render Artificial Intelligence (AI) more accessible to everyone and drive its further democratization in the larger society", as noted on the website [here](https://icicle.osu.edu/).
 
