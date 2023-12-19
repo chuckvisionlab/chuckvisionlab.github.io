@@ -5,7 +5,7 @@
   number_educ: 5
   education1: B.A., Williams College (Mathematics)
   education2: PhD, University of Wisconsin (Computer Science)
-  education3: Research Interests: Computer Vision, with applications in Ecology and Environment Conservation 
+  education3: Research Interests include Computer Vision, with applications in Ecology and Environment Conservation 
   education4: Advisor at <a href="https://www.wildme.org/what-we-do.html">WildMe</a>, Significant contribution to <a href="https://www.wildme.org/codex-and-wildbook.html">Wildbook</a>
   education5: Founder and Chief Scientist of DualAlign, LLC
 
@@ -15,7 +15,7 @@
   email: ekaterina.nepovinnykh@lut.fi
   number_educ: 2
   education1: Post-doctoral researcher, <a href="https://www.lut.fi/en">LUT University (Lappeenranta-Lahti University of Technology)</a>
-  education2: Research Interests: Computer Vision and Pattern Recognition, Animal Biometrics and Re-identification
+  education2: Research Interests include Computer Vision and Pattern Recognition, Animal Biometrics and Re-identification
 
 - name: <a href="https://scholar.google.ru/citations?user=iO-ruAkAAAAJ&hl=ru">Maksim Kholiavchenko</a>
   photo: Maksim.jpg
@@ -23,7 +23,7 @@
   email: dirtmaksim@gmail.com
   number_educ: 2
   education1: Masters in Computer Science, Rensselaer Polytechnic Institute
-  education2: Research Interests: Computer Vision, Deep Learning, Medical Image Analysis 
+  education2: Research Interests include Computer Vision, Deep Learning, Medical Image Analysis 
 
 - name: <a href="https://ankitkupadhyay.github.io/">Ankit Kumar Upadhyay</a>
   photo: Ankit.jpeg
@@ -31,5 +31,5 @@
   email: upadha2@rpi.edu
   number_educ: 2
   education1: B.E., <a href="https://vtu.ac.in/">Visvesvaraya Technological University</a>, 2019-2023
-  education2: Research Interests: Computer Vision, Deep Learning, Computational Linguistics, Ecological Conservation
+  education2: Research Interests include Computer Vision, Deep Learning, Computational Linguistics, Ecological Conservation
 
