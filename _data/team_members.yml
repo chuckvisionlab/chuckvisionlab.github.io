@@ -1,4 +1,4 @@
-- name: [Charles V Stewart](https://scholar.google.com/citations?user=7egtxu0AAAAJ&hl=en)
+- name: <a href="https://scholar.google.com/citations?user=7egtxu0AAAAJ&hl=en">Charles V Stewart</a>
   photo: chuck.jpg
   info: Professor, Computer Science, Rensselaer Polytechnic Institute
   email: stewart@rpi.edu
@@ -6,18 +6,18 @@
   education1: B.A., Williams College (Mathematics)
   education2: PhD, University of Wisconsin (Computer Science)
   education3: Research Interests: Computer Vision, with applications in Ecology and Environment Conservation 
-  education4: Advisor at [WildMe](https://www.wildme.org/what-we-do.html), Significant contribution to [Wildbook](https://www.wildme.org/codex-and-wildbook.html)
+  education4: Advisor at <a href="https://www.wildme.org/what-we-do.html">WildMe</a>, Significant contribution to <a href="https://www.wildme.org/codex-and-wildbook.html">Wildbook</a>
   education5: Founder and Chief Scientist of DualAlign, LLC
 
-- name: [Ekaterina Nepovinnykh](https://scholar.google.com/citations?user=lmYki4gAAAAJ&hl=en)
+- name: <a href="https://scholar.google.com/citations?user=lmYki4gAAAAJ&hl=en">Ekaterina Nepovinnykh</a>
   photo: Ekaterina.jpg
   info: Research Scientist at Rensselaer Polytechnic Institute, started Dec 2023
   email: ekaterina.nepovinnykh@lut.fi
   number_educ: 2
-  education1: Post-doctoral researcher, [LUT University (Lappeenranta-Lahti University of Technology)](https://www.lut.fi/en)
+  education1: Post-doctoral researcher, <a href="https://www.lut.fi/en">LUT University (Lappeenranta-Lahti University of Technology)</a>
   education2: Research Interests: Computer Vision and Pattern Recognition, Animal Biometrics and Re-identification
 
-- name: [Maksim Kholiavchenko](https://scholar.google.ru/citations?user=iO-ruAkAAAAJ&hl=ru)
+- name: <a href="https://scholar.google.ru/citations?user=iO-ruAkAAAAJ&hl=ru">Maksim Kholiavchenko</a>
   photo: Maksim.jpg
   info: PhD Student (Third year), Computer Science, Rensselaer Polytechnic Institute
   email: dirtmaksim@gmail.com
@@ -25,11 +25,11 @@
   education1: Masters in Computer Science, Rensselaer Polytechnic Institute
   education2: Research Interests: Computer Vision, Deep Learning, Medical Image Analysis 
 
-- name: [Ankit Kumar Upadhyay](https://ankitkupadhyay.github.io/)
+- name: <a href="https://ankitkupadhyay.github.io/">Ankit Kumar Upadhyay</a>
   photo: Ankit.jpeg
   info: PhD Student (First year), Computer Science, Rensselaer Polytechnic Institute
   email: upadha2@rpi.edu
   number_educ: 2
-  education1: B.E., [Visvesvaraya Technological University](https://vtu.ac.in/), 2019-2023
+  education1: B.E., <a href="https://vtu.ac.in/">Visvesvaraya Technological University</a>, 2019-2023
   education2: Research Interests: Computer Vision, Deep Learning, Computational Linguistics, Ecological Conservation
 
