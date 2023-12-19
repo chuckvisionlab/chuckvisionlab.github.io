@@ -1,29 +1,29 @@
-- name: Charles V Stewart
+- name: [Charles V Stewart](https://scholar.google.com/citations?user=7egtxu0AAAAJ&hl=en)
   photo: chuck.jpg
   info: Professor, Computer Science, Rensselaer Polytechnic Institute
   email: stewart@rpi.edu
   number_educ: 5
   education1: B.A., Williams College (Mathematics)
   education2: PhD, University of Wisconsin (Computer Science)
-  education3: Research Interests: Computer Vision, with applications in Ecology and Environment Conservation ([Google Scholar](https://scholar.google.com/citations?user=7egtxu0AAAAJ&hl=en))
+  education3: Research Interests: Computer Vision, with applications in Ecology and Environment Conservation 
   education4: Advisor at [WildMe](https://www.wildme.org/what-we-do.html), Significant contribution to [Wildbook](https://www.wildme.org/codex-and-wildbook.html)
   education5: Founder and Chief Scientist of DualAlign, LLC
 
-- name: Ekaterina Nepovinnykh
+- name: [Ekaterina Nepovinnykh](https://scholar.google.com/citations?user=lmYki4gAAAAJ&hl=en)
   photo: Ekaterina.jpg
   info: Research Scientist at Rensselaer Polytechnic Institute, started Dec 2023
   email: ekaterina.nepovinnykh@lut.fi
   number_educ: 2
   education1: Post-doctoral researcher, [LUT University (Lappeenranta-Lahti University of Technology)](https://www.lut.fi/en)
-  education2: Research Interests: Computer Vision and Pattern Recognition, Animal Biometrics and Re-identification ([Google Scholar](https://scholar.google.com/citations?user=lmYki4gAAAAJ&hl=en))
+  education2: Research Interests: Computer Vision and Pattern Recognition, Animal Biometrics and Re-identification
 
-- name: Maksim Kholiavchenko
+- name: [Maksim Kholiavchenko](https://scholar.google.ru/citations?user=iO-ruAkAAAAJ&hl=ru)
   photo: Maksim.jpg
   info: PhD Student (Third year), Computer Science, Rensselaer Polytechnic Institute
   email: dirtmaksim@gmail.com
   number_educ: 2
   education1: Masters in Computer Science, Rensselaer Polytechnic Institute
-  education2: Research Interests: Computer Vision, Deep Learning, Medical Image Analysis ([Google Scholar](https://scholar.google.ru/citations?user=iO-ruAkAAAAJ&hl=ru))
+  education2: Research Interests: Computer Vision, Deep Learning, Medical Image Analysis 
 
 - name: [Ankit Kumar Upadhyay](https://ankitkupadhyay.github.io/)
   photo: Ankit.jpeg
@@ -31,5 +31,5 @@
   email: upadha2@rpi.edu
   number_educ: 2
   education1: B.E., [Visvesvaraya Technological University](https://vtu.ac.in/), 2019-2023
-  education2: Research Interests: Computer Vision, Deep Learning, Computational Linguistics, Ecological Conservation ([Google Scholar](https://scholar.google.com/citations?user=dNClByYAAAAJ&hl=en))
+  education2: Research Interests: Computer Vision, Deep Learning, Computational Linguistics, Ecological Conservation
 
