@@ -1,94 +1,37 @@
 - name: Charles V Stewart
   photo: chuck.jpg
-  info: Professor, Computer Science
+  info: Professor, Computer Science, Rensselaer Polytechnic Institute
   email: stewart@rpi.edu
-  number_educ: 2
+  number_educ: 5
   education1: B.A., Williams College (Mathematics)
   education2: PhD, University of Wisconsin (Computer Science)
+  education3: Research Interests: Computer Vision, with applications in Ecology and Environment Conservation ([Google Scholar](https://scholar.google.com/citations?user=7egtxu0AAAAJ&hl=en))
+  education4: Advisor at [WildMe](https://www.wildme.org/what-we-do.html), Significant contribution to [Wildbook](https://www.wildme.org/codex-and-wildbook.html)
+  education5: Founder and Chief Scientist of DualAlign, LLC
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+- name: Ekaterina Nepovinnykh
+  photo: Ekaterina.jpg
+  info: Research Scientist at Rensselaer Polytechnic Institute, started Dec 2023
+  email: ekaterina.nepovinnykh@lut.fi
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: Post-doctoral researcher, [LUT University (Lappeenranta-Lahti University of Technology)](https://www.lut.fi/en)
+  education2: Research Interests: Computer Vision and Pattern Recognition, Animal Biometrics and Re-identification ([Google Scholar](https://scholar.google.com/citations?user=lmYki4gAAAAJ&hl=en))
 
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
-  email: jwlee0421@postech.ac.kr
+- name: Maksim Kholiavchenko
+  photo: Maksim.jpg
+  info: PhD Student (Third year), Computer Science, Rensselaer Polytechnic Institute
+  email: dirtmaksim@gmail.com
   number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+  education1: Masters in Computer Science, Rensselaer Polytechnic Institute
+  education2: Research Interests: Computer Vision, Deep Learning, Medical Image Analysis ([Google Scholar](https://scholar.google.ru/citations?user=iO-ruAkAAAAJ&hl=ru))
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 3
-  education1: PhD Student, 2018-2023
-  education2: Master Leiden University with Milan Allan
-  education3: Casimir PhD fellowship
-
-- name: Meng Li
-  photo: MengLi.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
+- name: [Ankit Kumar Upadhyay](https://ankitkupadhyay.github.io/)
+  photo: Ankit.jpeg
+  info: PhD Student (First year), Computer Science, Rensselaer Polytechnic Institute
+  email: upadha2@rpi.edu
   number_educ: 2
-  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
-  education2: BSc University of Chinese Academy of Sciences
-
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Postdoc, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
-  education2: MSc KIT
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University
+  education1: B.E., [Visvesvaraya Technological University](https://vtu.ac.in/), 2019-2023
+  education2: Research Interests: Computer Vision, Deep Learning, Computational Linguistics, Ecological Conservation ([Google Scholar](https://scholar.google.com/citations?user=dNClByYAAAAJ&hl=en))
 
 - name: "This could be you !"
   photo: rock.jpg
