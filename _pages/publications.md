@@ -64,4 +64,4 @@ Will be updated
 
 {% endfor %}
 
-You can also check publications from group members by visiting their Google Scholar page [here](team).
+**You can also check publications from group members by visiting their Google Scholar page [here](team).**
