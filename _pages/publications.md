@@ -63,3 +63,5 @@ Will be updated
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+You can also check publications from group members by visiting their Google Scholar page [here](team).
