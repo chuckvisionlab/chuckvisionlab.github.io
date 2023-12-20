@@ -2,12 +2,13 @@
   photo: chuck.jpg
   info: Professor, Computer Science, Rensselaer Polytechnic Institute
   email: stewart@rpi.edu
-  number_educ: 5
+  number_educ: 6
   education1: B.A., Williams College (Mathematics)
   education2: PhD, University of Wisconsin (Computer Science)
-  education3: Research Interests include Computer Vision, with applications in Ecology and Environment Conservation 
-  education4: Advisor at <a href="https://www.wildme.org/what-we-do.html">WildMe</a>, Significant contribution to <a href="https://www.wildme.org/codex-and-wildbook.html">Wildbook</a>
-  education5: Founder and Chief Scientist of DualAlign, LLC
+  education3: Teaching Computational Vision in Spring and AI for Conservation in the Fall (Launched in Fall 2023)
+  education4: Research Interests include Computer Vision, with applications in Ecology and Environment Conservation
+  education5: Advisor at <a href="https://www.wildme.org/what-we-do.html">WildMe</a>, Significant contribution to <a href="https://www.wildme.org/codex-and-wildbook.html">Wildbook</a>
+  education6: Founder and Chief Scientist of DualAlign, LLC
 
 - name: <a href="https://scholar.google.com/citations?user=lmYki4gAAAAJ&hl=en">Ekaterina Nepovinnykh</a>
   photo: Ekaterina.jpg
@@ -26,7 +27,7 @@
   education2: Research Interests include Computer Vision, Deep Learning, Medical Image Analysis 
 
 - name: <a href="https://ankitkupadhyay.github.io/">Ankit Kumar Upadhyay</a>
-  photo: Ankit.jpeg
+  photo: Ank.jpeg
   info: PhD Student (First year), Computer Science, Rensselaer Polytechnic Institute
   email: upadha2@rpi.edu
   number_educ: 2

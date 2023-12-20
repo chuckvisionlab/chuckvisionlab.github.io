@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**We are the VISION Lab at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) led by Dr. Charls V Stewart in Troy, New York.** Our aim is to design Computer Vision applications for Ecological Conservation.
+**We are the VISION Lab at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) led by Dr. Charles V Stewart in Troy, New York.** Our aim is to design Computer Vision applications for Ecological Conservation.
 More details to follow.
 
 
