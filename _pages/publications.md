@@ -64,4 +64,4 @@ Will be updated
 
 {% endfor %}
 
-**You can also check publications from group members by visiting their Google Scholar page [here](_pages/team.md).**
+**You can also check publications from group members by visiting their Google Scholar page [(here)]({{ site.url }}{{ site.baseurl }}/team/).**
