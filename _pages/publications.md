@@ -64,4 +64,4 @@ Will be updated
 
 {% endfor %}
 
-**You can also check publications from group members by visiting their Google Scholar page [here](/workspaces/chuckvisionlab.github.io/_data/team_members.yml).**
+**You can also check publications from group members by visiting their Google Scholar page [here](_pages/team.md).**
