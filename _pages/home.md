@@ -67,7 +67,7 @@ Dr Chuck Stewart is also an advisor at Wild Me, which is a project supported by 
 Currently, we are located at Rensselaer Polytechnic Institute (RPI), close to its 200-year annniversary. RPI is home to the most powerful supercomputer at a private university, and also the first university in the world to host IBM Quantum Sysytem One on its campus.
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We will update when we are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
